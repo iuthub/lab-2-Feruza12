@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+border:green 5px solid;
+background-image: url("images//bg.jpg");
+margin-right: 10%; 
+margin-left: 10%;
+}
+body .red{
+	border: red 5px solid;
+	padding: 5px;
+	margin:10px 0px;
+	background: white;
+	text-align: right;
+}
+body .red h2{
+	border:orange 5px solid;
+}
+.spatulas, .cookie{
+	border: blue 5px solid;
+	padding: 5px;
+	margin:10px 0px;
+	background:  #E8FBFB;
+}
+ h2 span{
+	border: #800080 5px solid;
+}
+
+/* .spatulas span, .cookie span{
+	
+} */
